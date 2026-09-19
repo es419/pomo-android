@@ -1,0 +1,7 @@
+{
+  "appId": "com.es419.pomo",
+  "appName": "Pomo",
+  "webDir": "dist",
+  "server": { "androidScheme": "https" },
+  "android": { "allowMixedContent": false }
+}
